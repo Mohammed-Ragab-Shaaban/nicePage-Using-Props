@@ -1,0 +1,58 @@
+#upSection2{
+    background-color: #808080;
+}
+
+
+
+.planFeatures{
+    background-color: #fff;
+    padding-top: 108px !important;
+}
+
+.price{
+    position: absolute;
+    top: -45px;
+    right: 30px;
+    padding: 15px;
+    min-width: 150px;
+}
+.grediant1{
+    background-image: linear-gradient(#4e4276, #573aba);
+}
+.grediant2{
+    background-image: linear-gradient(#697d34, #92c705);
+}
+.grediant3{
+    background-image: linear-gradient(#ae6237, #ec6011);
+}
+
+
+p{
+    margin: 0;
+}
+
+button{
+    display: block;
+    margin: auto;
+    background-color: #d4560f;
+    color: white;
+    border-radius: 5px
+}
+button:hover{
+    background-color: #be4c0a;
+
+}
+
+.card{
+    min-width: 225px;
+}
+ul{
+    list-style-type: none;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+.foot a{
+    color: #c2b4f2;
+    text-decoration: underline;
+}
+
+.foot a:hover{
+    color: #aaa;
+}
+
